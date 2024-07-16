@@ -7,7 +7,7 @@ from bson.objectid import ObjectId
 app = Flask(__name__)
 
 
-app.config["MONGO_URI"] =  "mongodb+srv://<username>:<asssword>@cluster0.swa3ygw.mongodb.net/dataitems2?retryWrites=true&w=majority&appName=Cluster0"
+app.config["MONGO_URI"] =  "mongodb+srv://o7:pb12q4886@cluster0.swa3ygw.mongodb.net/dataitems2?retryWrites=true&w=majority&appName=Cluster0"
 mongo = PyMongo(app)
 db_name = "dataitems2"
 collection_name = "data"
@@ -68,7 +68,7 @@ def add_item():
     }
 
     filter_query = {
-                "_id": ObjectId("66911ea7c7a192912a406155")
+                "_id": ObjectId("66964e961dd4adaa6dcde374")
                 }
             
     update_query = {
