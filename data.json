@@ -1,0 +1,2016 @@
+{
+    "sales_orgamization_code": {
+        "2100": {
+            "distribution_channel": {
+                "3": {
+                    "location_code": {
+                        "2120": {
+                            "item": {
+                                "1000000": {
+                                    "customer": {
+                                        "1080110": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2024-04-20 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 10.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 133.25,
+                                                    "ending_date": "2024-04-19 00:00:00",
+                                                    "lower_limit": 133.25,
+                                                    "upper_limit": 99999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 0.0,
+                                                    "price_with_tax": 133.25
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2134": {
+                            "item": {
+                                "1000000": {
+                                    "customer": {
+                                        "1080254": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2024-04-04 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 265.0,
+                                                    "ending_date": "2024-04-04 00:00:00",
+                                                    "lower_limit": 265.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 0.0,
+                                                    "price_with_tax": 265.0
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2115": {
+                            "item": {
+                                "1000000": {
+                                    "customer": {
+                                        "1085813": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2024-05-29 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 70.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 14.13,
+                                                    "ending_date": "2024-05-28 00:00:00",
+                                                    "lower_limit": 14.13,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 0.0,
+                                                    "price_with_tax": 14.13
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "0": {
+                            "item": {
+                                "1000003": {
+                                    "nan": {
+                                        "conditions": [
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2019-03-25 00:00:00",
+                                                "unit_of_measure_code": "CAR",
+                                                "minimum_quantity": 0.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 120.0,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 120.0,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 126.0
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2022-06-30 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 1.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.75,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 2.75,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.89
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2022-06-30 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 3.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.61,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 2.61,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.74
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "2128": {
+                            "item": {
+                                "1000003": {
+                                    "nan": {
+                                        "conditions": [
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2019-03-25 00:00:00",
+                                                "unit_of_measure_code": "CAR",
+                                                "minimum_quantity": 0.0,
+                                                "priority": 8,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 120.0,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 120.0,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 126.0
+                                            }
+                                        ]
+                                    },
+                                    "customer": {
+                                        "1002416": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2024-05-11 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 4.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 116.0,
+                                                    "ending_date": "2024-05-11 00:00:00",
+                                                    "lower_limit": 116.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 121.8
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2131": {
+                            "item": {
+                                "1000003": {
+                                    "nan": {
+                                        "conditions": [
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2023-04-24 00:00:00",
+                                                "unit_of_measure_code": "CAR",
+                                                "minimum_quantity": 1.0,
+                                                "priority": 8,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 121.25,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 121.25,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 127.31
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2023-04-24 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 1.0,
+                                                "priority": 8,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.78,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 2.78,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.92
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "2124": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1002710": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2024-05-21 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 12.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.5,
+                                                    "ending_date": "2024-05-21 00:00:00",
+                                                    "lower_limit": 2.5,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.63
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2111": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1038126": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-05-01 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-05-01 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-05-01 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "0": {
+                    "location_code": {
+                        "0": {
+                            "item": {
+                                "1000003": {
+                                    "customer_hierarchy": {
+                                        "94": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2019-03-25 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 7,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.9,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.9,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.05
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2019-03-27 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 7,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 121.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 121.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 127.05
+                                                }
+                                            ]
+                                        },
+                                        "96": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2019-03-25 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 7,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 121.5,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 121.5,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 127.58
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2019-03-25 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 7,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 3.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 3.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.15
+                                                }
+                                            ]
+                                        },
+                                        "98": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2019-03-25 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 7,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2019-03-25 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 7,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 3.1,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 3.1,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.26
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "2": {
+                    "location_code": {
+                        "0": {
+                            "item": {
+                                "1000003": {
+                                    "nan": {
+                                        "conditions": [
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2022-01-27 00:00:00",
+                                                "unit_of_measure_code": "CAR",
+                                                "minimum_quantity": 1.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 120.0,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 120.0,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 126.0
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2022-06-30 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 1.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.75,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 2.75,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.89
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2022-06-30 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 3.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.61,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 2.61,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.74
+                                            }
+                                        ]
+                                    },
+                                    "customer_group": {
+                                        "11": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-04-24 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-04-27 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-04-27 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        },
+                                        "68": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-04-27 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-04-27 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-04-27 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        },
+                                        "85": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-09-01 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-09-01 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-09-01 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2111": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-01-18 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2112": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-01-18 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2113": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-01-18 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2115": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-01-18 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2117": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-01-18 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2119": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-01-18 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2120": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-01-18 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2121": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-01-18 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2124": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-01-18 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2127": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-01-18 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2128": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-01-18 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2131": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-01-18 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2132": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-17 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-06-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2134": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-09-26 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 999999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-09-26 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 999999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-09-26 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 999999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2135": {
+                            "item": {
+                                "1000003": {
+                                    "customer": {
+                                        "1047138": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-11-28 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 999999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-11-28 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 999999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2022-11-28 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 1,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 999999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "7": {
+                    "location_code": {
+                        "0": {
+                            "item": {
+                                "1000003": {
+                                    "nan": {
+                                        "conditions": [
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2019-03-25 00:00:00",
+                                                "unit_of_measure_code": "CAR",
+                                                "minimum_quantity": 0.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 120.0,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 120.0,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 126.0
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2022-06-30 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 1.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.75,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 2.75,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.89
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2022-06-30 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 3.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.61,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 2.61,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.74
+                                            }
+                                        ]
+                                    },
+                                    "customer_group": {
+                                        "11": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-08-30 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-08-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-08-30 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        },
+                                        "68": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-08-31 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-08-31 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-08-31 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        },
+                                        "85": {
+                                            "conditions": [
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-09-04 00:00:00",
+                                                    "unit_of_measure_code": "CAR",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 122.0,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 122.0,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 128.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-09-04 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 1.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.95,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.95,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 3.1
+                                                },
+                                                {
+                                                    "condition_type": "ZPRC",
+                                                    "starting_date": "2023-09-04 00:00:00",
+                                                    "unit_of_measure_code": "EA",
+                                                    "minimum_quantity": 3.0,
+                                                    "priority": 4,
+                                                    "sales_organization_code": "2100",
+                                                    "sales_price": 2.6,
+                                                    "ending_date": "9999-12-31 00:00:00",
+                                                    "lower_limit": 2.6,
+                                                    "upper_limit": 9999.0,
+                                                    "currency": "AED",
+                                                    "offer_article": 0,
+                                                    "tax_percent": 5.0,
+                                                    "price_with_tax": 2.73
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2122": {
+                            "item": {
+                                "1000003": {
+                                    "nan": {
+                                        "conditions": [
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2018-01-31 00:00:00",
+                                                "unit_of_measure_code": "CAR",
+                                                "minimum_quantity": 0.0,
+                                                "priority": 8,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 112.0,
+                                                "ending_date": "9999-12-30 00:00:00",
+                                                "lower_limit": 110.0,
+                                                "upper_limit": 125.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 117.6
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "2128": {
+                            "item": {
+                                "1000003": {
+                                    "nan": {
+                                        "conditions": [
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2019-03-25 00:00:00",
+                                                "unit_of_measure_code": "CAR",
+                                                "minimum_quantity": 0.0,
+                                                "priority": 8,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 120.0,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 120.0,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 126.0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "15": {
+                    "location_code": {
+                        "0": {
+                            "item": {
+                                "1000003": {
+                                    "nan": {
+                                        "conditions": [
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2024-03-15 00:00:00",
+                                                "unit_of_measure_code": "CAR",
+                                                "minimum_quantity": 0.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 121.44,
+                                                "ending_date": "2024-03-17 00:00:00",
+                                                "lower_limit": 121.44,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 127.51
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2024-03-15 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 1.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.78,
+                                                "ending_date": "2024-03-17 00:00:00",
+                                                "lower_limit": 2.78,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.92
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2024-03-15 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 3.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.64,
+                                                "ending_date": "2024-03-17 00:00:00",
+                                                "lower_limit": 2.64,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.77
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2024-03-18 00:00:00",
+                                                "unit_of_measure_code": "CAR",
+                                                "minimum_quantity": 0.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 121.44,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 121.44,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 127.51
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2024-03-18 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 1.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.78,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 2.78,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.92
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2024-03-18 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 3.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.64,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 2.64,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.77
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "16": {
+                    "location_code": {
+                        "0": {
+                            "item": {
+                                "1000003": {
+                                    "nan": {
+                                        "conditions": [
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2024-03-18 00:00:00",
+                                                "unit_of_measure_code": "CAR",
+                                                "minimum_quantity": 0.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 121.44,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 121.44,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 127.51
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2024-03-18 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 1.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.78,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 2.78,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.92
+                                            },
+                                            {
+                                                "condition_type": "ZPRC",
+                                                "starting_date": "2024-03-18 00:00:00",
+                                                "unit_of_measure_code": "EA",
+                                                "minimum_quantity": 3.0,
+                                                "priority": 9,
+                                                "sales_organization_code": "2100",
+                                                "sales_price": 2.64,
+                                                "ending_date": "9999-12-31 00:00:00",
+                                                "lower_limit": 2.64,
+                                                "upper_limit": 9999.0,
+                                                "currency": "AED",
+                                                "offer_article": 0,
+                                                "tax_percent": 5.0,
+                                                "price_with_tax": 2.77
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
