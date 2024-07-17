@@ -7,7 +7,8 @@ from bson.objectid import ObjectId
 app = Flask(__name__)
 
 
-app.config["MONGO_URI"] =  "mongodb+srv://<username>:<password>@cluster0.swa3ygw.mongodb.net/dataitems2?retryWrites=true&w=majority&appName=Cluster0"
+# app.config["MONGO_URI"] =  "mongodb+srv://<username>:<password>@cluster0.swa3ygw.mongodb.net/dataitems2?retryWrites=true&w=majority&appName=Cluster0"
+app.config["MONGO_URI"]="mongodb://localhost:27017/dataitems2"
 mongo = PyMongo(app)
 db_name = "dataitems2"
 collection_name = "data"
@@ -68,7 +69,7 @@ def add_item():
     }
 
     filter_query = {
-                "_id": ObjectId("66964e961dd4adaa6dcde374")
+                "_id": ObjectId("66978dce76e719b74e07a02f")
                 }
             
     update_query = {
@@ -89,6 +90,7 @@ def add_item():
 @app.route('/api/get_item', methods=['GET'])
 def get_item():
     data = request.get_json()
+    
     distribution_channel = str(safe_int(data.get("distribution_channel_code", 0)))
     location_code = str(safe_int(data.get("location_code", 0)))
     sales_organization_code = str(safe_int(data.get("sales_orgranization_code", 0)))
@@ -108,13 +110,13 @@ def get_item():
     elif customer_hierarchy != "0":
         item_child = f"customer_hierarchy.{customer_hierarchy}"
     
-    path = f"sales_organization_code.{sales_organization_code}.distribution_channels.{distribution_channel}.locations.{location_code}.items.{item_no}.{item_child}"
+    path = f"sales_organization_code.{sales_organization_code}.distribution_channel.{distribution_channel}.location_code.{location_code}.item.{item_no}.{item_child}"
     query = { path: { '$exists': True } }
     projection = {f'{path}.conditions': 1, '_id': 0}
     item = mongo.db.data.find_one(query,projection)
     print(item != None)
     if (item != None):
-        fetched_item = item['sales_organization_code'][sales_organization_code]['distribution_channels'][distribution_channel]['locations'][location_code]['items'][item_no]
+        fetched_item = item['sales_organization_code'][sales_organization_code]['distribution_channel'][distribution_channel]['location_code'][location_code]['item'][item_no]
 
         print("here")
         if item_child == 'nan':
